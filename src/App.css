@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+.header {
+  width: 70%;
+  height: 10vh;
+  margin: 20px auto;
+  padding: 15px 300px 0 0;
+  box-sizing: border-box;
+
+  background-color: rgb(163, 153, 153);
+}
+select {
+  height: 30px;
+  width: 150px;
+  border-radius: 10px;
+  border: 1px solid rgba(84, 82, 82, 0.434)
+}
+select:hover {
+  cursor: pointer;
+}
+.weather{
+  display: inline-block;
+  height: 250px;
+  width: 175px;
+  box-sizing: border-box;
+  margin-right: 80px;
+  margin-top: 10px;
+
+  border-bottom: 1px solid grey;
+}
+.showDescr {
+  margin-top: 60px;
+  font-size: 1.10rem;
+}
+.icon {
+  font-size: 50px;
+}
+.date {
+  font-size: 0.93rem;
+}
+.sun {
+  color: rgb(214, 214, 28);
+}
+.cloud {
+  color:rgba(14, 54, 134, 0.504);
+}
