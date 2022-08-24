@@ -23,8 +23,8 @@ yarn-debug.log*
 yarn-error.log*
 
 # public
-public/
 public/!index.html
+public/
 
 # others
 package-lock.json
