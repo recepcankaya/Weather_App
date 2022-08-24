@@ -28,7 +28,7 @@ public/!index.html
 
 # others
 package-lock.json
-padckage.json
+package.json
 yarn.lock
 logo.svg
 setupTests.js
